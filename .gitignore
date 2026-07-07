@@ -1,0 +1,10 @@
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tar.gz
+.codex-backups/
+.env
+*.egg-info/
+dist/
+build/
